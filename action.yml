@@ -1,0 +1,8 @@
+name: 'Hello world - RJD'
+desceiption: 'Print helo work and the current date.'
+runs:
+    using: 'docker'
+    image: 'Dockerfile'
+branding:
+    icon: 'target'
+    color: 'green'
